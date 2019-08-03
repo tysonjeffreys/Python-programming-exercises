@@ -9,3 +9,9 @@
 
 #Hints:
 #Use __init__ method to construct some parameters
+
+def StringStuff:
+
+    def getString:
+
+        

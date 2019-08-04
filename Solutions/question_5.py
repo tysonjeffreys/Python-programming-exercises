@@ -12,6 +12,23 @@
 
 class StringStuff():
     
-    def getString():
-
+    def __init__(self, name):
+        self.name = name
+    
+    def getString(self):
+        print(self.name + ' please type something and press enter: ')
+        self.string = input()
         
+    def printString(self):
+        print(self.string.upper())
+
+
+name = input('What is your name? ')
+
+first_string = StringStuff(name)
+
+first_string.getString()
+
+
+
+first_string.printString()

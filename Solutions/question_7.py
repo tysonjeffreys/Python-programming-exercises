@@ -10,5 +10,5 @@ Suppose the following inputs are given to the program:
 Then, the output of the program should be:
 [[0, 0, 0, 0, 0], [0, 1, 2, 3, 4], [0, 2, 4, 6, 8]] 
 
-Hints:
+Hints:  
 Note: In case of input data being supplied to the question, it should be assumed to be a console input in a comma-separated form.
